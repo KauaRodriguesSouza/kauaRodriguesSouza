@@ -10,17 +10,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-340891291/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="kauarodriguesdesouza05@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="45" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/kaua_rdgues_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="45" alt="instagram logo"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/KauaRodriguesSouza/KauaRodriguesSouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -34,6 +24,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-340891291/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="kauarodriguesdesouza05@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="45" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/kaua_rdgues_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="45" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
